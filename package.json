@@ -1,6 +1,6 @@
 {
   "name": "sestg-atem",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "A module to control Blackmagic Design ATEM Switchers.",
   "homepage": "https://github.com/applest/node-applest-atem",
   "repository": {
